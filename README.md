@@ -1,1 +1,1 @@
-# Relational-database-systems-project
+# Project focused on designing and implementing a relational database system to streamline and support critical business functions. The initiative encompassed multiple phases, from planning and requirements gathering to database design and deployment, utilizing best practices in data modeling and SQL.
